@@ -1,4 +1,3 @@
-
 const puppeteer = require('puppeteer-extra');
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const randomUseragent = require('random-useragent');
@@ -6,9 +5,8 @@ const randomUseragent = require('random-useragent');
 puppeteer.use(StealthPlugin());
 
 const urls = [
-    'https://krishihelp660.blogspot.com/2022/04/tub-data-vegetable-cultivation-method.html',
-    'https://krishihelp660.blogspot.com/',
-	'https://krishihelp660.blogspot.com/',
+    'https://www.adsbinfree.com/2023/09/how-to-increase-fecebook-threshold.html',
+    'https://www.adsbinfree.com/search/label/tools',
     // Add more URLs here...
 ];
 
