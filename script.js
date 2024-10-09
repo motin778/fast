@@ -5,8 +5,8 @@ const randomUseragent = require('random-useragent');
 puppeteer.use(StealthPlugin());
 
 const urls = [
-    'https://www.adsbinfree.com/2023/09/how-to-increase-fecebook-threshold.html',
-    'https://www.adsbinfree.com/search/label/tools',
+    'https://krishihelp660.blogspot.com/',
+    'https://krishihelp660.blogspot.com/2022/04/tub-data-vegetable-cultivation-method.html',
     // Add more URLs here...
 ];
 
